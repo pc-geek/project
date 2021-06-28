@@ -1,0 +1,37 @@
+.links{
+    float: left;
+    color:black;
+    padding-top: 5px;
+    padding-left:9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size:20px;
+    background:grey;
+    text-align: left;
+}
+    .links:hover{
+    
+    background-color:dodgerblue;
+
+}
+h2{
+    text-align: center;
+    
+}
+#about{
+  
+}
+
+img{
+    border-image: 13px;
+}
+body{
+    
+background-color: 
+#a2a8a2;
+
+
+}
+
+
